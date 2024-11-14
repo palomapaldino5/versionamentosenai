@@ -1,0 +1,2 @@
+# versionamentosenai
+Solução de conflitos
